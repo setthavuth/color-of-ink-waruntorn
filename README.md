@@ -5,12 +5,10 @@ In this project, we will explore style, characteristic of song and construct a m
 As there is no datasource available for us, we are going to collect data from website using web scraping.
 
 
-
 ![1_B5Hs6OXqRtJG54SBBXbT9w](https://user-images.githubusercontent.com/36258664/167779857-2ca9e9c9-2bda-42bf-ad96-faf80707e03b.png)
 
 
-
-## Example result for Generated Lyric
+## Color of INK WARUNTORN Lyric
 ---------------------------------------
 "อย่าเพิ่งกลับ ฉันขอร้อง ถ้าเธอจะไปเหงาสนใจเท่าไหร่คงถึงเพียงเอาไว้ 
 <br> หายทั้งที่ชื่นชมเพียงสายตา say เธออีกนั้นรู้สึก นั้นรู้สึกนั้นสนใจให้บ้างหรือเปล่ากับทั้ง 
